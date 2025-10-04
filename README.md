@@ -36,7 +36,7 @@ The bot has two main objectives:
 ## 🔗 Prototype Links  
 Try the live prototypes here:  
 
-- 🎙️ **[Voice Agent](https://app.inya.ai/demo/94c544fd-4119-4664-94a9-148a11bdfc8e)**  
+- 🎙️ **[Voice Agent](https://app.inya.ai/demo/6618c30c-9ada-4644-923d-af7882edcf5d)**  
 - 💬 **[Web Agent](https://app.inya.ai/chat-demo/a132a240-b25e-4c45-8b3e-b82bf201ca79)**  
 
 ⚠️ *Note: Please fill the pre-call variables before using. It will not affect responses or questions.*  
